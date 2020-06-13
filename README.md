@@ -273,7 +273,7 @@ int main(){
 
 From the code, we can get right away the userid is `0x3211` and password is `sUpErPassHCMUS`. Notice that the userid is integer so remember to convert it before logging in. 
 
-Here we go!
+Here we go!!
 
 ![tellme2](https://i.imgur.com/sCnclTx.png)
 
